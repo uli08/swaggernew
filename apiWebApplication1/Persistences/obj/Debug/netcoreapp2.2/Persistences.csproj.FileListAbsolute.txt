@@ -1,0 +1,14 @@
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Persistences.deps.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Persistences.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.csprojAssemblyReference.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.csproj.CoreCompileInputs.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.AssemblyInfoInputs.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.AssemblyInfo.cs
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Persistences.runtimeconfig.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Persistences.runtimeconfig.dev.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Persistences.pdb
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.csproj.CopyComplete
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Persistences\obj\Debug\netcoreapp2.2\Persistences.pdb

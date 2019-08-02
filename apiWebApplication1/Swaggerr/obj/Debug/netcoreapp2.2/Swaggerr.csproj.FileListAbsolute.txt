@@ -1,0 +1,11 @@
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\bin\Debug\netcoreapp2.2\Swaggerr.deps.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\bin\Debug\netcoreapp2.2\Swaggerr.runtimeconfig.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\bin\Debug\netcoreapp2.2\Swaggerr.runtimeconfig.dev.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\bin\Debug\netcoreapp2.2\Swaggerr.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.csprojAssemblyReference.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.csproj.CoreCompileInputs.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.RazorAssemblyInfo.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.RazorAssemblyInfo.cs
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.AssemblyInfoInputs.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.AssemblyInfo.cs
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Swaggerr\obj\Debug\netcoreapp2.2\Swaggerr.RazorTargetAssemblyInfo.cache

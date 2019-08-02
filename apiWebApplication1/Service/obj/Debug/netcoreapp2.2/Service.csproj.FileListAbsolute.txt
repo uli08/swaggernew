@@ -1,0 +1,14 @@
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Persistences.dll
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\bin\Debug\netcoreapp2.2\Persistences.pdb
+C:\Users\kendry\Desktop\itla actual\6to cuatrimestr\programasion 3\tarea actual\api\apiWebApplication1\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
